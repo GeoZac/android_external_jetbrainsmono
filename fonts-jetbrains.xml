@@ -1,0 +1,10 @@
+    <family customizationType="new-named-family" name="jetbrainsmono">
+        <font weight="400" style="normal">JetBrainsMono-Regular.ttf</font>
+        <font weight="400" style="italic">JetBrainsMono-Italic.ttf</font>
+        <font weight="500" style="normal">JetBrainsMono-Medium.ttf</font>
+        <font weight="500" style="italic">JetBrainsMono-Medium-Italic.ttf</font>
+        <font weight="700" style="normal">JetBrainsMono-Bold.ttf</font>
+        <font weight="700" style="italic">JetBrainsMono-Bold-Italic.ttf</font>
+    </family>
+    <alias name="jetbrainsmono-medium" to="jetbrainsmono" weight="500" />
+
