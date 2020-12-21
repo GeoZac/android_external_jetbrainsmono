@@ -24,4 +24,7 @@ PRODUCT_PACKAGES := \
     JetBrainsMono-Bold.ttf \
     JetBrainsMono-Bold-Italic.ttf
 
+# Add font families to fonts-customization.xml
+ADDITIONAL_FONTS_FILE += \
+   external/jetbrainsmono/fonts-jetbrains.xml
 
